@@ -6,6 +6,8 @@ By steps. Its easy you can use a android phone or bluestacks to do that
 
 
 First step:
+Build eternity apk stealer
+Open bluestacks/your android phone
 Download apkeasytool from google (any website)
 Then add your stealer.apk to there and choose sign.
 Sign your apk v2 and v3 so it will v10 and v11+ android versions so its cant detect
